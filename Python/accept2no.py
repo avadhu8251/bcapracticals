@@ -1,0 +1,8 @@
+print("Enter Two Numbers: ", end="")
+nOne = int(input())
+nTwo = int(input())
+print("\n" +str(nOne)+ " + " +str(nTwo)+ " = " +str(nOne+nTwo))
+print(str(nOne)+ " - " +str(nTwo)+ " = " +str(nOne-nTwo))
+print(str(nOne)+ " * " +str(nTwo)+ " = " +str(nOne*nTwo))
+print(str(nOne)+ " / " +str(nTwo)+ " = " +str(nOne/nTwo))
+print(str(nOne)+ " % " +str(nTwo)+ " = " +str(nOne%nTwo))
